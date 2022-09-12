@@ -194,6 +194,7 @@ class IPFS {
     this.files = files
     this.key = new KeyAPI({ keychain })
     this.object = new ObjectAPI({ preload, codecs, repo })
+    this.store = repo
     this.repo = new RepoAPI({ repo, hashers: this.hashers })
     this.stats = new StatsAPI({ repo, network })
     this.swarm = new SwarmAPI({ network })
