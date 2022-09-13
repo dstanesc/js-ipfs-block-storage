@@ -1,12 +1,12 @@
 {
-  "name": "ipfs-core",
+  "name": "@dstanesc/ipfs-core-store-access",
   "version": "0.16.0",
-  "description": "JavaScript implementation of the IPFS specification",
+  "description": "JS IPFS clone with repo access",
   "license": "Apache-2.0 OR MIT",
-  "homepage": "https://github.com/ipfs/js-ipfs/tree/master/packages/ipfs-core#readme",
+  "homepage": "https://github.com/dstanesc/js-ipfs-block-storage/tree/block-storage-access",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ipfs/js-ipfs.git"
+    "url": "git+https://github.com/dstanesc/js-ipfs-block-storage.git"
   },
   "bugs": {
     "url": "https://github.com/ipfs/js-ipfs/issues"
