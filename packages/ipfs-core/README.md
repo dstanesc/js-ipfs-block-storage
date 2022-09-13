@@ -1,6 +1,6 @@
 # ipfs-core w/ block storage access <!-- omit in toc -->
 
-A clone of the [original ipfs-core](https://github.com/ipfs/js-ipfs/tree/master/packages/ipfs-core) exposing directly the block storage so that the API allows precomputed CIDs.
+Experiment. A clone of the [original ipfs-core](https://github.com/ipfs/js-ipfs/tree/master/packages/ipfs-core) exposing the block storage to allow publishing precomputed CIDs.
 
 ## Usage
 
